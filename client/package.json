@@ -1,0 +1,14 @@
+{
+  "name": "@examples/minimal-client",
+  "version": "10.43.1",
+  "private": true,
+  "author": "Anthony Ikeda <anthony.ikeda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@trpc/client": "^10.43.1",
+    "undici": "^5.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.16"
+  }
+}
